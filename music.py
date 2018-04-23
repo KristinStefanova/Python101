@@ -23,3 +23,7 @@ def payment(amount):
         print("Good amount!")
     else:
         print("Bad amount!")
+
+
+def acer():
+    pass
