@@ -16,3 +16,10 @@ def solution(*args, **kwargs):
 
 def user_register(email):
     pass
+
+
+def payment(amount):
+    if amount > 10:
+        print("Good amount!")
+    else:
+        print("Bad amount!")
