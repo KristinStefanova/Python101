@@ -12,3 +12,7 @@ else:
 
 def solution(*args, **kwargs):
     time.sleep(20)
+
+
+def user_register(email):
+    pass
