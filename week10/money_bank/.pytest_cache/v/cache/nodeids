@@ -1,0 +1,11 @@
+[
+  "tests/client_proxy_test.py::ClientProxyTests::test_change_message",
+  "tests/client_proxy_test.py::ClientProxyTests::test_change_password",
+  "tests/client_proxy_test.py::ClientProxyTests::test_login",
+  "tests/client_proxy_test.py::ClientProxyTests::test_login_wrong_password",
+  "tests/client_proxy_test.py::ClientProxyTests::test_register",
+  "tests/client_test.py::ClientTests::test_client_balance",
+  "tests/client_test.py::ClientTests::test_client_id",
+  "tests/client_test.py::ClientTests::test_client_message",
+  "tests/client_test.py::ClientTests::test_client_name"
+]

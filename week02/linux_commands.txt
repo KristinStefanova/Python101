@@ -1,0 +1,14 @@
+mkdir -p A/{B,C,D}
+mkdir E
+mkdir -p F/G
+mkdir H
+mkdir I
+
+cat > panda.txt
+
+cat > panda.txt > panda1.txt > panda2.txt > panda3.txt
+rm panda.txt
+
+cat > penguin1.txt > penguin2.txt > penguin3.txt
+
+cp -a F/G. E/J

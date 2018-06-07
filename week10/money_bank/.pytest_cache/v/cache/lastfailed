@@ -1,0 +1,8 @@
+{
+  "tests/client_proxy_test.py::SqlManagerTests::test_change_message": true,
+  "tests/client_proxy_test.py::SqlManagerTests::test_change_password": true,
+  "tests/client_proxy_test.py::SqlManagerTests::test_login": true,
+  "tests/client_proxy_test.py::SqlManagerTests::test_login_wrong_password": true,
+  "tests/client_proxy_test.py::SqlManagerTests::test_register": true,
+  "tests/sql_manager_test.py::SqlManagerTests": true
+}
